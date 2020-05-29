@@ -1,5 +1,5 @@
 ---
-title: Situasi COVID-19 per daerah
+title: "Situasi COVID-19 per daerah"
 description: Jabarkan satu per satu atau bedakan dengan warna?
 toc: false
 comments: true
@@ -10,7 +10,7 @@ author: Yosef Ardhito
 
 Pada era pandemik ini, rasanya sampai kenyang melihat banyaknya grafik yang dipublikasikan. Kebanyakan dari grafik tersebut bertujuan untuk membandingkan dampak covid di satu daerah dengan daerah lain. Untuk memudahkan perbandingan, biasanya garfik memanfaatkan kode warna yang berbeda untuk menandakan masing-masing daerah. Nah, belakangan ini banyak bermunculan grafik dengan trend baru, seperti ini contohnya:
 
-![Dampak Covid per Provinsi](/images/2020-05-30-covid1/datawizart.png)
+![Dampak Covid per Provinsi](/images/statis_posts/covid/datawizart.png)
 
 Sumber grafik dari [datawizart.com](https://github.com/dioariadi/covid-19).
 
@@ -20,7 +20,7 @@ Kekurangannya, membandingkan antara 2 daerah secara spesifik jadi lebih sulit. M
 
 Lalu bagaimana kalau kita tetap ingin menggunakan satu grafik saja? Coba kita lihat grafik yang menginspirasi dibuatnya grafik di atas:
 
-![Pertumbuhan Covid per Negara](/images/2020-05-30-covid1/ft-covid.png)
+![Pertumbuhan Covid per Negara](/images/statis_posts/covid/ft-covid.png)
 
 Sumber grafik dari [ft.com](https://ig.ft.com/coronavirus-chart/).
 
