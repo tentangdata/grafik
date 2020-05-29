@@ -1,1 +1,1 @@
-Sitemap: https://tentangdata.github.io/grafik/sitemap.xml
+Sitemap: https://grafik.tentangdata.com/sitemap.xml
