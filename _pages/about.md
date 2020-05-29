@@ -1,13 +1,19 @@
 ---
 layout: page
-title: About Me
+title: Tentang Kami
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Situs ini adalah kurasi dan kreasi konten lokal berupa grafik yang menarik di internet. Kami terinspirasi dari situs seperti [FlowingData](https://flowingdata.com/) dan [WTF Visualizations](https://viz.wtf/).
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Para penulis (terurut abjad):
+
+1. [Ali Akbar S.](https://twitter.com/aliakbars)
+2. [Okiriza W.](https://twitter.com/okiriza)
+3. [Yosef Ardhito W.](https://twitter.com/yoseflaw)
+
+Situs ini dibuat menggunakan **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[^1]:sebuah platform untuk membuat blog yang mendukung Jupyter notebook dan format lain seperti Ms. Word.

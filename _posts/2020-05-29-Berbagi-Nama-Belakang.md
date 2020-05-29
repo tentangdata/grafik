@@ -5,7 +5,7 @@ toc: false
 comments: true
 layout: post
 categories: [statis]
-author: <a href="https://twitter.com/aliakbars">Ali Akbar</a>
+author: Ali Akbar
 ---
 
 ![Usia saat menikah](https://miro.medium.com/max/1400/1*507DfPEQzapvfaaSueuiqw.png)
