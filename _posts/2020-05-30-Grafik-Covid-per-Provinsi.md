@@ -1,5 +1,5 @@
 ---
-title: "Situasi COVID-19 per daerah"
+title: "Situasi COVID-19 per Daerah"
 description: Jabarkan satu per satu atau bedakan dengan warna?
 toc: false
 comments: true
