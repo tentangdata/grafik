@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Situasi COVID-19 per daerah",
+            "content": "Pada era pandemik ini, rasanya sampai kenyang melihat banyaknya grafik yang dipublikasikan. Kebanyakan dari grafik tersebut bertujuan untuk membandingkan dampak covid di satu daerah dengan daerah lain. Untuk memudahkan perbandingan, biasanya garfik memanfaatkan kode warna yang berbeda untuk menandakan masing-masing daerah. Nah, belakangan ini banyak bermunculan grafik dengan trend baru, seperti ini contohnya: . . Sumber grafik dari datawizart.com. . Pendekatan seperti ini bisa menjadi alternatif ketika jumlah kategori yang harus ditampilkan cukup banyak. Memang mata manusia cukup cekatan untuk membedakan warna, tetapi semakin banyak kategori maka pilihan warna akan makin sedikit. Rumus kasarnya, 6 warna adalah maksimum yang masih efektif (silakan eksperimen di colorbrewer). Sekarang, bisa dibayangkan kalau seluruh provinsi di Indonesia harus dibedakan menggunakan warna berbeda. Itulah kenapa teknik menggunakan grafik berbeda untuk tiap kategori jadi marak di era covid. . Kekurangannya, membandingkan antara 2 daerah secara spesifik jadi lebih sulit. Misalnya, kalau kita lihat Sulawesi Tenggara dan Kepulauan Riau, tidak begitu jelas perbandingannya. . Lalu bagaimana kalau kita tetap ingin menggunakan satu grafik saja? Coba kita lihat grafik yang menginspirasi dibuatnya grafik di atas: . . Sumber grafik dari ft.com. . Jika menggunakan satu grafik dan variasi warna, maka kita mesti memanfaatkan fitur interaktif untuk membatasi jumlah kategori yang ditampilkan dalam satu waktu. Membandingkan satu daerah dengan yang lain yang dipilih jadi mudah. . Tentu masing-masing ada kelebihan dan kekurangannya. Kembali lagi, karakter pembacanya seperti apa. Jika pembaca tertarik untuk melihat keseluruhan kategori, maka lebih mudah dengan pendekatan satu kategori, satu grafik. Sebaliknya, jika pembaca tertarik pada kategori tertentu, maka menggabungkan seluruh kategori dalam satu grafik dan menggunakan interaksi lebih cocok. .",
+            "url": "https://grafik.tentangdata.com/statis/2020/05/30/Grafik-Covid-per-Provinsi.html",
+            "relUrl": "/statis/2020/05/30/Grafik-Covid-per-Provinsi.html",
+            "date": " • May 30, 2020"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "Lalu Lintas Jakarta",
             "content": ". Siapa sih yang tidak mumet dengan kemacetan di Jakarta? Bagi warga Jakarta dan sekitarnya, macet itu sudah makanan sehari-hari. Kebanyakan orang pun sudah punya gambaran kira-kira waktu-waktu terbaik untuk berangkat dan pulang kantor. Namun, pilihan optimal itu hanya per orang saja. Seandainya orang tersebut pindah, bisa jadi proses mempelajari polanya harus diulang lagi. . Ternyata, butuh orang non-Jabodetabek untuk bisa melihat kemacetan Jakarta dari sudut pandang yang lebih luas. Dalam tulisannya di sini, Mona mencoba mengurai benang kusut kemacetan Jakarta. Saya suka sekali dengan visualisasi ini karena dibuat menggunakan teknik machine learning yang relatif sederhana: k-Means clustering, tapi rekomendasinya - yang juga bisa dilihat di judul tiap gambar - boleh dibilang jitu. . . Selain waktu pulang-pergi ke kantor, Mona juga membuat visualisasi menarik berupa peta dinamis lalu lintas di Jakarta di pekan kemerdakaan. Saya selalu salut sama yang seperti ini. Niat betul. .",
             "url": "https://grafik.tentangdata.com/statis/dinamis/2020/05/29/Lalu-Lintas-Jakarta.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Usia Laki-laki dan Perempuan Indonesia saat Menikah",
             "content": ". Salah satu grafik favorit saya sepanjang masa untuk menunjukkan bahwa sebaiknya kita tidak melakukan binning saat menanyakan usia di survei. Usia bukanlah hal yang sensitif ditanyakan. Toh, survei kebanyakan bersifat anonim. Jadi tidak masalah untuk menanyakan usia dalam pertanyaan terbuka, bukan pilihan ganda. . Grafik di atas membantu kita menemukan anomali dengan mudah dalam datanya. Misalnya, usia suami sekitar 30-an tapi istrinya sekitar 80-an (kiri atas)! Ini jarang sekali terjadi kan ya? Ada juga saat usia suami antara 75-85 tahun, tapi istrinya sekitar belasan atau 20 tahun. Jadi, ini juga contoh yang baik bahwa anomalinya bisa jadi baru ditemukan saat dua variabel disilangkan, e.g. asumsi Gaussian bivariat. . Beberapa grafik menarik lainnya terkait usia saat menikah ini dapat ditemukan di tulisan Ramda Yanurzha ini. .",
             "url": "https://grafik.tentangdata.com/statis/2020/05/29/Berbagi-Nama-Belakang.html",
