@@ -4,11 +4,12 @@ description: Jabarkan satu per satu atau bedakan dengan warna?
 toc: false
 comments: true
 layout: post
+image: /images/statis_posts/covid/ft-covid.png
 categories: [statis]
 author: Yosef Ardhito
 ---
 
-Pada era pandemik ini, rasanya sampai kenyang melihat banyaknya grafik yang dipublikasikan. Kebanyakan dari grafik tersebut bertujuan untuk membandingkan dampak covid di satu daerah dengan daerah lain. Untuk memudahkan perbandingan, biasanya garfik memanfaatkan kode warna yang berbeda untuk menandakan masing-masing daerah. Nah, belakangan ini banyak bermunculan grafik dengan trend baru, seperti ini contohnya:
+Pada era pandemik ini, rasanya sampai kenyang melihat banyaknya grafik yang dipublikasikan. Kebanyakan dari grafik tersebut bertujuan untuk membandingkan dampak covid di satu daerah dengan daerah lain. Untuk memudahkan perbandingan, biasanya grafik memanfaatkan kode warna yang berbeda untuk menandakan masing-masing daerah. Nah, belakangan ini banyak bermunculan grafik dengan trend baru, seperti ini contohnya:
 
 ![Dampak Covid per Provinsi](/images/statis_posts/covid/datawizart.png)
 
