@@ -1,8 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://grafik.tentangdata.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://grafik.tentangdata.com/" rel="alternate" type="text/html" /><updated>2020-06-04T05:47:44-05:00</updated><id>https://grafik.tentangdata.com/feed.xml</id><title type="html">Tentang Grafik</title><subtitle>Kurasi dan kreasi konten lokal berupa grafik yang menarik di internet</subtitle><entry><title type="html">Rerata Pengeluaran ART</title><link href="https://grafik.tentangdata.com/dinamis/2020/06/04/Lokadata-Rerata-ART.html" rel="alternate" type="text/html" title="Rerata Pengeluaran ART" /><published>2020-06-04T00:00:00-05:00</published><updated>2020-06-04T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/dinamis/2020/06/04/Lokadata-Rerata-ART</id><content type="html" xml:base="https://grafik.tentangdata.com/dinamis/2020/06/04/Lokadata-Rerata-ART.html">&lt;!--
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://grafik.tentangdata.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://grafik.tentangdata.com/" rel="alternate" type="text/html" /><updated>2020-06-04T05:51:19-05:00</updated><id>https://grafik.tentangdata.com/feed.xml</id><title type="html">Tentang Grafik</title><subtitle>Kurasi dan kreasi konten lokal berupa grafik yang menarik di internet</subtitle><entry><title type="html">Pertumbuhan Kargo Domestik dan Internasional</title><link href="https://grafik.tentangdata.com/statis/2020/06/03/Pertumbuhan-Kargo-Domestik-dan-Internasional.html" rel="alternate" type="text/html" title="Pertumbuhan Kargo Domestik dan Internasional" /><published>2020-06-03T00:00:00-05:00</published><updated>2020-06-03T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/06/03/Pertumbuhan-Kargo-Domestik-dan-Internasional</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/06/03/Pertumbuhan-Kargo-Domestik-dan-Internasional.html">&lt;p&gt;&lt;img src=&quot;https://www.validnews.id/backdoor/asset/news_picture/berita_valid1548764822.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sumber: &lt;a href=&quot;https://www.validnews.id/Infografis-Pertumbuhan-Kargo-Domestik---Internasional-6B&quot;&gt;Validnews&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Paket!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Di masa pandemi ini, berapa banyak dari kalian frekuensi menerima paketnya jadi meningkat? Grafik di atas mungkin sudah tidak terlalu relevan sekarang, karena bisa jadi permintaan kargo jadi jauh lebih banyak daripada estimasi. Pun grafik di atas hanya mengestimasi sampai 2019 saja. Namun, ada beberapa hal yang bisa kita lihat di sini.&lt;/p&gt;
+
+&lt;p&gt;Pertama, perhatikan sumbu y-nya. Kenaikannya tidak konsisten meski jaraknya sama. Dari 10, 40, 60, lalu 80. Selisihnya kan 30, 20, dan 20. Kenapa ya kira-kira dibuat seperti ini?&lt;/p&gt;
+
+&lt;p&gt;Masalah lainnya, elemennya terlalu banyak di grafik tersebut. Rasanya jadi sesak dan bingung untuk memfokuskan ke mana seharusnya. Seperti prinsip yang dicontohkan di &lt;a href=&quot;http://www.storytellingwithdata.com/blog/2017/3/29/declutter-this-graph&quot;&gt;sini&lt;/a&gt;, harusnya kita mengurangi beban visual di sini. Grafik di bawah adalah percobaan saya untuk memperbaiki gambarnya.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/statis_posts/kargo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Perhatikan bahwa ada beberapa poin yang menarik jika dibandingkan dengan infografik aslinya:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Peningkatan panjang barnya tidak seperti pada infografik asli. Apa ya tujuannya?&lt;/li&gt;
+  &lt;li&gt;Saya tidak mengerti angka persentase yang dimasukkan ke sana didapatkan dari mana. Apa yang mau ditunjukkan? Karena kalau dibuat selisih dari tahun ke tahun, kok beda ya?&lt;/li&gt;
+  &lt;li&gt;Saya membuang pencapaian sementara. Ini bisa diperdebatkan, tapi menurut saya menambahkan pencapaian sementara dengan bar plot juga membuat sumbu x-nya tidak konsisten.&lt;/li&gt;
+  &lt;li&gt;Dengan grafik baru, lebih terlihat bahwa per tahun ada peningkatan sekitar 10% dari total kargo. Kenapa ya?&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Ali Akbar</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://grafik.tentangdata.com/images/statis_posts/kargo.png" /><media:content medium="image" url="https://grafik.tentangdata.com/images/statis_posts/kargo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Rerata Pengeluaran ART</title><link href="https://grafik.tentangdata.com/dinamis/2020/06/03/Lokadata-Rerata-ART.html" rel="alternate" type="text/html" title="Rerata Pengeluaran ART" /><published>2020-06-03T00:00:00-05:00</published><updated>2020-06-03T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/dinamis/2020/06/03/Lokadata-Rerata-ART</id><content type="html" xml:base="https://grafik.tentangdata.com/dinamis/2020/06/03/Lokadata-Rerata-ART.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
-# file to edit: _notebooks/2020-06-04-Lokadata-Rerata-ART.ipynb
+# file to edit: _notebooks/Lokadata-Rerata-ART.ipynb
 --&gt;
 
 &lt;div class=&quot;container&quot; id=&quot;notebook-container&quot;&gt;
@@ -163,28 +184,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Yosef Ardhito</name></author><summary type="html"></summary></entry><entry><title type="html">Pertumbuhan Kargo Domestik dan Internasional</title><link href="https://grafik.tentangdata.com/statis/2020/06/03/Pertumbuhan-Kargo-Domestik-dan-Internasional.html" rel="alternate" type="text/html" title="Pertumbuhan Kargo Domestik dan Internasional" /><published>2020-06-03T00:00:00-05:00</published><updated>2020-06-03T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/06/03/Pertumbuhan-Kargo-Domestik-dan-Internasional</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/06/03/Pertumbuhan-Kargo-Domestik-dan-Internasional.html">&lt;p&gt;&lt;img src=&quot;https://www.validnews.id/backdoor/asset/news_picture/berita_valid1548764822.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sumber: &lt;a href=&quot;https://www.validnews.id/Infografis-Pertumbuhan-Kargo-Domestik---Internasional-6B&quot;&gt;Validnews&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Paket!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Di masa pandemi ini, berapa banyak dari kalian frekuensi menerima paketnya jadi meningkat? Grafik di atas mungkin sudah tidak terlalu relevan sekarang, karena bisa jadi permintaan kargo jadi jauh lebih banyak daripada estimasi. Pun grafik di atas hanya mengestimasi sampai 2019 saja. Namun, ada beberapa hal yang bisa kita lihat di sini.&lt;/p&gt;
-
-&lt;p&gt;Pertama, perhatikan sumbu y-nya. Kenaikannya tidak konsisten meski jaraknya sama. Dari 10, 40, 60, lalu 80. Selisihnya kan 30, 20, dan 20. Kenapa ya kira-kira dibuat seperti ini?&lt;/p&gt;
-
-&lt;p&gt;Masalah lainnya, elemennya terlalu banyak di grafik tersebut. Rasanya jadi sesak dan bingung untuk memfokuskan ke mana seharusnya. Seperti prinsip yang dicontohkan di &lt;a href=&quot;http://www.storytellingwithdata.com/blog/2017/3/29/declutter-this-graph&quot;&gt;sini&lt;/a&gt;, harusnya kita mengurangi beban visual di sini. Grafik di bawah adalah percobaan saya untuk memperbaiki gambarnya.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/statis_posts/kargo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Perhatikan bahwa ada beberapa poin yang menarik jika dibandingkan dengan infografik aslinya:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Peningkatan panjang barnya tidak seperti pada infografik asli. Apa ya tujuannya?&lt;/li&gt;
-  &lt;li&gt;Saya tidak mengerti angka persentase yang dimasukkan ke sana didapatkan dari mana. Apa yang mau ditunjukkan? Karena kalau dibuat selisih dari tahun ke tahun, kok beda ya?&lt;/li&gt;
-  &lt;li&gt;Saya membuang pencapaian sementara. Ini bisa diperdebatkan, tapi menurut saya menambahkan pencapaian sementara dengan bar plot juga membuat sumbu x-nya tidak konsisten.&lt;/li&gt;
-  &lt;li&gt;Dengan grafik baru, lebih terlihat bahwa per tahun ada peningkatan sekitar 10% dari total kargo. Kenapa ya?&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Ali Akbar</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://grafik.tentangdata.com/images/statis_posts/kargo.png" /><media:content medium="image" url="https://grafik.tentangdata.com/images/statis_posts/kargo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Situasi COVID-19 per Daerah</title><link href="https://grafik.tentangdata.com/statis/2020/05/30/Grafik-Covid-per-Provinsi.html" rel="alternate" type="text/html" title="Situasi COVID-19 per Daerah" /><published>2020-05-30T00:00:00-05:00</published><updated>2020-05-30T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/05/30/Grafik-Covid-per-Provinsi</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/05/30/Grafik-Covid-per-Provinsi.html">&lt;p&gt;Pada era pandemik ini, rasanya sampai kenyang melihat banyaknya grafik yang dipublikasikan. Kebanyakan dari grafik tersebut bertujuan untuk membandingkan dampak covid di satu daerah dengan daerah lain. Untuk memudahkan perbandingan, biasanya grafik memanfaatkan kode warna yang berbeda untuk menandakan masing-masing daerah. Nah, belakangan ini banyak bermunculan grafik dengan trend baru, seperti ini contohnya:&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Yosef Ardhito</name></author><summary type="html"></summary></entry><entry><title type="html">Situasi COVID-19 per Daerah</title><link href="https://grafik.tentangdata.com/statis/2020/05/30/Grafik-Covid-per-Provinsi.html" rel="alternate" type="text/html" title="Situasi COVID-19 per Daerah" /><published>2020-05-30T00:00:00-05:00</published><updated>2020-05-30T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/05/30/Grafik-Covid-per-Provinsi</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/05/30/Grafik-Covid-per-Provinsi.html">&lt;p&gt;Pada era pandemik ini, rasanya sampai kenyang melihat banyaknya grafik yang dipublikasikan. Kebanyakan dari grafik tersebut bertujuan untuk membandingkan dampak covid di satu daerah dengan daerah lain. Untuk memudahkan perbandingan, biasanya grafik memanfaatkan kode warna yang berbeda untuk menandakan masing-masing daerah. Nah, belakangan ini banyak bermunculan grafik dengan trend baru, seperti ini contohnya:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/statis_posts/covid/datawizart.png&quot; alt=&quot;Dampak Covid per Provinsi&quot; /&gt;&lt;/p&gt;
 
