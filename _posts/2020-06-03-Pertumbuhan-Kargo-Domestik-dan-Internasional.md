@@ -9,9 +9,7 @@ categories: [statis]
 author: Ali Akbar
 ---
 
-![](https://www.validnews.id/backdoor/asset/news_picture/berita_valid1548764822.jpg)
-
-Sumber: [Validnews](https://www.validnews.id/Infografis-Pertumbuhan-Kargo-Domestik---Internasional-6B)
+![](https://www.validnews.id/backdoor/asset/news_picture/berita_valid1548764822.jpg "Sumber: [Validnews](https://www.validnews.id/Infografis-Pertumbuhan-Kargo-Domestik---Internasional-6B)")
 
 *Paket!*
 
