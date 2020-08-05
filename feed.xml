@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://grafik.tentangdata.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://grafik.tentangdata.com/" rel="alternate" type="text/html" /><updated>2020-08-03T23:53:47-05:00</updated><id>https://grafik.tentangdata.com/feed.xml</id><title type="html">Tentang Grafik</title><subtitle>Kurasi dan kreasi konten lokal berupa grafik yang menarik di internet</subtitle><entry><title type="html">Percayakan Kepada Saintis</title><link href="https://grafik.tentangdata.com/statis/2020/08/03/Sinta.html" rel="alternate" type="text/html" title="Percayakan Kepada Saintis" /><published>2020-08-03T00:00:00-05:00</published><updated>2020-08-03T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/08/03/Sinta</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/08/03/Sinta.html">&lt;p&gt;&lt;img src=&quot;/images/statis_posts/sinta/sinta-1.png&quot; alt=&quot;Bar plot&quot; title=&quot;Sumber: http://sinta.ristekbrin.go.id/&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://grafik.tentangdata.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://grafik.tentangdata.com/" rel="alternate" type="text/html" /><updated>2020-08-04T21:11:50-05:00</updated><id>https://grafik.tentangdata.com/feed.xml</id><title type="html">Tentang Grafik</title><subtitle>Kurasi dan kreasi konten lokal berupa grafik yang menarik di internet</subtitle><entry><title type="html">Informasi Geografis pada Visualisasi</title><link href="https://grafik.tentangdata.com/statis/2020/08/05/Peta-COVID-19.html" rel="alternate" type="text/html" title="Informasi Geografis pada Visualisasi" /><published>2020-08-05T00:00:00-05:00</published><updated>2020-08-05T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/08/05/Peta-COVID-19</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/08/05/Peta-COVID-19.html">&lt;p&gt;&lt;img src=&quot;/images/statis_posts/covid/covid-19-map.jpg&quot; alt=&quot;COVID-19 map&quot; title=&quot;Sumber: https://twitter.com/nmonarizqa/status/1290513408513597440&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Seperti biasa, Mbak Mona punya cara menarik untuk memvisualisasikan sesuatu. Di &lt;a href=&quot;https://grafik.tentangdata.com/statis/2020/05/30/Grafik-Covid-per-Provinsi.html&quot;&gt;pos ini&lt;/a&gt;, kami pernah membahas tentang pilihan untuk memvisualisasikan data pertumbuhan COVID-19 dari berbagai daerah. Meski dengan membaginya per daerah jadi lebih mudah dilihat, tapi untuk mencari lokasi yang kita inginkan kita masih perlu menelusuri grafiknya satu per satu.&lt;/p&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;in&quot; dir=&quot;ltr&quot;&gt;Jumlah kasus aktif harian COVID-19 di tiap propinsi Indonesia hingga 3/8/2020&lt;br /&gt;&lt;br /&gt;Sumber: &lt;a href=&quot;https://t.co/cVzg7kBIuy&quot;&gt;https://t.co/cVzg7kBIuy&lt;/a&gt;&lt;br /&gt;Style terinspirasi dari &lt;a href=&quot;https://t.co/uW93OUb3lq&quot;&gt;https://t.co/uW93OUb3lq&lt;/a&gt; &lt;a href=&quot;https://t.co/HXAsq15egD&quot;&gt;pic.twitter.com/HXAsq15egD&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mona (@nmonarizqa) &lt;a href=&quot;https://twitter.com/nmonarizqa/status/1290513408513597440?ref_src=twsrc%5Etfw&quot;&gt;August 4, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Berhubung kita tahu peta Indonesia kurang lebih seperti apa, meletakkan grafik per provinsi berdasarkan koordinatnya membantu kita menemukan data pada daerah yang kita inginkan dengan lebih mudah. Selain itu, grafik ini juga dilengkapi dengan kode warna untuk menunjukkan daerah-daerah yang masih perlu perhatian lebih dalam penanganan pandemi. Warna merahnya masih jauh lebih banyak daripada warna kuningnya. Pun begitu, yang warna kuning bukan berarti sudah aman karena masih mungkin ada &lt;a href=&quot;https://www.bbc.com/news/health-53113785&quot;&gt;&lt;em&gt;second wave&lt;/em&gt;&lt;/a&gt; - seperti kasus di Jepang dan Australia.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Semoga pandemi ini cepat berlalu.&lt;/em&gt;&lt;/p&gt;</content><author><name>Ali Akbar</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://grafik.tentangdata.com/images/statis_posts/covid/covid-19-map.jpg" /><media:content medium="image" url="https://grafik.tentangdata.com/images/statis_posts/covid/covid-19-map.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Percayakan Kepada Saintis</title><link href="https://grafik.tentangdata.com/statis/2020/08/03/Sinta.html" rel="alternate" type="text/html" title="Percayakan Kepada Saintis" /><published>2020-08-03T00:00:00-05:00</published><updated>2020-08-03T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/08/03/Sinta</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/08/03/Sinta.html">&lt;p&gt;&lt;img src=&quot;/images/statis_posts/sinta/sinta-1.png&quot; alt=&quot;Bar plot&quot; title=&quot;Sumber: http://sinta.ristekbrin.go.id/&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Baru-baru ini sedang ramai tentang seseorang yang disebut profesor dan membuat komentar kontroversial tentang obat COVID-19. Nah, salah satu pak dosen yang cukup terkenal di jagat Twitter pun mengeluarkan cuitan ini.&lt;/p&gt;
 
@@ -26,25 +36,7 @@
 
 &lt;p&gt;&lt;em&gt;Tarik napas dalam-dalam…&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Kuatkan hati kalau mau membuka situsnya ya.&lt;/p&gt;</content><author><name>Anonim</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://covid19.kemkes.go.id/wp-content/uploads/2020/07/Situasi-Infem-2020-Minggu-26-1.png" /><media:content medium="image" url="https://covid19.kemkes.go.id/wp-content/uploads/2020/07/Situasi-Infem-2020-Minggu-26-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Turun Drastis</title><link href="https://grafik.tentangdata.com/statis/2020/07/06/Turun-Drastis.html" rel="alternate" type="text/html" title="Turun Drastis" /><published>2020-07-06T00:00:00-05:00</published><updated>2020-07-06T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/07/06/Turun-Drastis</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/07/06/Turun-Drastis.html">&lt;p&gt;Selain dunia politik, bidang lain yang acap kali kedapatan bumbu penyedap adalah grafik bursa efek.&lt;/p&gt;
-
-&lt;p&gt;Coba tengok grafik berikut:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/statis_posts/cnbc/pzza.png&quot; alt=&quot;Saham PZZA Bombastis&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sumber: &lt;a href=&quot;https://www.cnbcindonesia.com/market/20200702154459-17-169766/waralaba-pizza-hut-as-bangkrut-saham-pzza-langsung-ambles-7&quot;&gt;cnbcindonesia.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Selain karena was-was apakah Pizza HUT ikut terdampak (jadi pengin &lt;em&gt;american favorite&lt;/em&gt;…), saya mempertanyakan kegunaan menggambarkan penurunan harga saham menggunakan &lt;em&gt;area plot&lt;/em&gt; ketika &lt;em&gt;data point&lt;/em&gt; hanya empat (lihat patahannya). Tambah lagi dikasih warna merah juga, &lt;em&gt;hii serem&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Salah satu cara mengurangi bias ketika axis y tidak dimulai dari angka 0 adalah dengan menggunakan grafik garis. Lebih baik lagi jika diberikan konteks. Coba bandingkan dengan grafik saham PZZA yang lebih lengkap berikut:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/statis_posts/cnbc/pzza2.png&quot; alt=&quot;Saham PZZA Normal&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sumber: &lt;a href=&quot;https://www.seputarforex.com/saham/grafik/harga.php?kode=pzza&quot;&gt;seputarforex.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Apa iya penurunannya sebombastis itu?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Yah, namanya juga berita…&lt;/em&gt;&lt;/p&gt;</content><author><name>Yosef Ardhito</name></author><summary type="html">Selain dunia politik, bidang lain yang acap kali kedapatan bumbu penyedap adalah grafik bursa efek.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://grafik.tentangdata.com/images/statis_posts/cnbc/pzza.png" /><media:content medium="image" url="https://grafik.tentangdata.com/images/statis_posts/cnbc/pzza.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mau Sekolah di Mana?</title><link href="https://grafik.tentangdata.com/statis/2020/07/06/World-University-Ranking-Times-Dataset.html" rel="alternate" type="text/html" title="Mau Sekolah di Mana?" /><published>2020-07-06T00:00:00-05:00</published><updated>2020-07-06T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/07/06/World-University-Ranking-Times-Dataset</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/07/06/World-University-Ranking-Times-Dataset.html">&lt;!--
+&lt;p&gt;Kuatkan hati kalau mau membuka situsnya ya.&lt;/p&gt;</content><author><name>Anonim</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://covid19.kemkes.go.id/wp-content/uploads/2020/07/Situasi-Infem-2020-Minggu-26-1.png" /><media:content medium="image" url="https://covid19.kemkes.go.id/wp-content/uploads/2020/07/Situasi-Infem-2020-Minggu-26-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mau Sekolah di Mana?</title><link href="https://grafik.tentangdata.com/statis/2020/07/06/World-University-Ranking-Times-Dataset.html" rel="alternate" type="text/html" title="Mau Sekolah di Mana?" /><published>2020-07-06T00:00:00-05:00</published><updated>2020-07-06T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/07/06/World-University-Ranking-Times-Dataset</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/07/06/World-University-Ranking-Times-Dataset.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
@@ -4406,7 +4398,25 @@ BIQAAAAAAAAOCgEhAAAAAAAAAAAAAAAAgCP5/1H0fhDVF3s1AAAAAElFTkSuQmCC&quot; /&gt;
 &lt;/div&gt;
     
 
-&lt;/div&gt;</content><author><name>Elvyna Tunggawan</name></author><summary type="html"></summary></entry><entry><title type="html">Mari Berjoget Bersama</title><link href="https://grafik.tentangdata.com/statis/2020/07/05/Lagu-Dangdut-Terkini.html" rel="alternate" type="text/html" title="Mari Berjoget Bersama" /><published>2020-07-05T00:00:00-05:00</published><updated>2020-07-05T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/07/05/Lagu-Dangdut-Terkini</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/07/05/Lagu-Dangdut-Terkini.html">&lt;!--
+&lt;/div&gt;</content><author><name>Elvyna Tunggawan</name></author><summary type="html"></summary></entry><entry><title type="html">Turun Drastis</title><link href="https://grafik.tentangdata.com/statis/2020/07/06/Turun-Drastis.html" rel="alternate" type="text/html" title="Turun Drastis" /><published>2020-07-06T00:00:00-05:00</published><updated>2020-07-06T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/07/06/Turun-Drastis</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/07/06/Turun-Drastis.html">&lt;p&gt;Selain dunia politik, bidang lain yang acap kali kedapatan bumbu penyedap adalah grafik bursa efek.&lt;/p&gt;
+
+&lt;p&gt;Coba tengok grafik berikut:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/statis_posts/cnbc/pzza.png&quot; alt=&quot;Saham PZZA Bombastis&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sumber: &lt;a href=&quot;https://www.cnbcindonesia.com/market/20200702154459-17-169766/waralaba-pizza-hut-as-bangkrut-saham-pzza-langsung-ambles-7&quot;&gt;cnbcindonesia.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Selain karena was-was apakah Pizza HUT ikut terdampak (jadi pengin &lt;em&gt;american favorite&lt;/em&gt;…), saya mempertanyakan kegunaan menggambarkan penurunan harga saham menggunakan &lt;em&gt;area plot&lt;/em&gt; ketika &lt;em&gt;data point&lt;/em&gt; hanya empat (lihat patahannya). Tambah lagi dikasih warna merah juga, &lt;em&gt;hii serem&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Salah satu cara mengurangi bias ketika axis y tidak dimulai dari angka 0 adalah dengan menggunakan grafik garis. Lebih baik lagi jika diberikan konteks. Coba bandingkan dengan grafik saham PZZA yang lebih lengkap berikut:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/statis_posts/cnbc/pzza2.png&quot; alt=&quot;Saham PZZA Normal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sumber: &lt;a href=&quot;https://www.seputarforex.com/saham/grafik/harga.php?kode=pzza&quot;&gt;seputarforex.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Apa iya penurunannya sebombastis itu?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Yah, namanya juga berita…&lt;/em&gt;&lt;/p&gt;</content><author><name>Yosef Ardhito</name></author><summary type="html">Selain dunia politik, bidang lain yang acap kali kedapatan bumbu penyedap adalah grafik bursa efek.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://grafik.tentangdata.com/images/statis_posts/cnbc/pzza.png" /><media:content medium="image" url="https://grafik.tentangdata.com/images/statis_posts/cnbc/pzza.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mari Berjoget Bersama</title><link href="https://grafik.tentangdata.com/statis/2020/07/05/Lagu-Dangdut-Terkini.html" rel="alternate" type="text/html" title="Mari Berjoget Bersama" /><published>2020-07-05T00:00:00-05:00</published><updated>2020-07-05T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/07/05/Lagu-Dangdut-Terkini</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/07/05/Lagu-Dangdut-Terkini.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
@@ -7010,23 +7020,4 @@ xBN6HWvXfoUAAAAASUVORK5CYII=&quot; width=&quot;420&quot; height=&quot;420&quot; 
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name>Ali Akbar</name></author><summary type="html"></summary></entry><entry><title type="html">Pertumbuhan Kargo Domestik dan Internasional</title><link href="https://grafik.tentangdata.com/statis/2020/06/03/Pertumbuhan-Kargo-Domestik-dan-Internasional.html" rel="alternate" type="text/html" title="Pertumbuhan Kargo Domestik dan Internasional" /><published>2020-06-03T00:00:00-05:00</published><updated>2020-06-03T00:00:00-05:00</updated><id>https://grafik.tentangdata.com/statis/2020/06/03/Pertumbuhan-Kargo-Domestik-dan-Internasional</id><content type="html" xml:base="https://grafik.tentangdata.com/statis/2020/06/03/Pertumbuhan-Kargo-Domestik-dan-Internasional.html">&lt;p&gt;&lt;img src=&quot;https://www.validnews.id/backdoor/asset/news_picture/berita_valid1548764822.jpg&quot; alt=&quot;&quot; title=&quot;Sumber: https://www.validnews.id/Infografis-Pertumbuhan-Kargo-Domestik---Internasional-6B&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Paket!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Di masa pandemi ini, berapa banyak dari kalian frekuensi menerima paketnya jadi meningkat? Grafik di atas mungkin sudah tidak terlalu relevan sekarang, karena bisa jadi permintaan kargo jadi jauh lebih banyak daripada estimasi. Pun grafik di atas hanya mengestimasi sampai 2019 saja. Namun, ada beberapa hal yang bisa kita lihat di sini.&lt;/p&gt;
-
-&lt;p&gt;Pertama, perhatikan sumbu y-nya. Kenaikannya tidak konsisten meski jaraknya sama. Dari 10, 40, 60, lalu 80. Selisihnya kan jadi 30, 20, dan 20. Kenapa ya kira-kira dibuat seperti ini?&lt;/p&gt;
-
-&lt;p&gt;Masalah lainnya, elemennya terlalu banyak di grafik tersebut. Rasanya jadi sesak dan bingung untuk menaruh fokus. Seperti prinsip yang dicontohkan di &lt;a href=&quot;http://www.storytellingwithdata.com/blog/2017/3/29/declutter-this-graph&quot;&gt;sini&lt;/a&gt;, harusnya kita mengurangi beban visual di grafik tersebut. Grafik di bawah adalah percobaan saya untuk memperbaiki gambarnya.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/statis_posts/kargo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Perhatikan bahwa ada beberapa poin yang menarik jika dibandingkan dengan infografik aslinya:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Peningkatan panjang batangnya tidak seperti pada infografik asli. Apa ya tujuannya?&lt;/li&gt;
-  &lt;li&gt;Saya tidak mengerti dari mana didapatkan angka persentase di infografik asli. Apa yang mau ditunjukkan? Karena kalau dibuat selisih dari tahun ke tahun, kok beda ya?&lt;/li&gt;
-  &lt;li&gt;Saya membuang pencapaian sementara. Ini bisa diperdebatkan, tapi menurut saya menambahkan pencapaian sementara dengan bar plot juga membuat sumbu x-nya tidak konsisten.&lt;/li&gt;
-  &lt;li&gt;Dengan grafik baru, lebih terlihat bahwa per dua tahun ada peningkatan sekitar 10% dari total kargo. Kenapa ya?&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Ali Akbar</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://grafik.tentangdata.com/images/statis_posts/kargo.png" /><media:content medium="image" url="https://grafik.tentangdata.com/images/statis_posts/kargo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/div&gt;</content><author><name>Ali Akbar</name></author><summary type="html"></summary></entry></feed>
