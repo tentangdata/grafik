@@ -9,7 +9,7 @@ categories: [statis]
 author: Yosef Ardhito
 ---
 
-![Heatmap Cahaya Jakarta](/images/statis_posts/worldbank/jakarta.png "Sumber: https://twitter.com/nmonarizqa/status/1290513408513597440")
+![Heatmap Cahaya Jakarta](/images/statis_posts/worldbank/jakarta.png "Sumber: https://blogs.worldbank.org/opendata/shedding-light-night-lights-data-dmsp-vs-viirs")
 
 Heatmap bisa jadi membingungkan pembaca mengenai pesan apa yang ingin disampaikan. Salah satu alasannya karena terdapat dua titik ekstrem: ekstrem bawah dan ekstrem atas. Dengan menggunakan anotasi berupa teks dan panah, pembaca bisa langsung mengetahui bagian grafik yang penting dan segera mendapatkan informasi visual mengapa bagian tersebut berbeda dari yang lain. Contohnya, pada grafik tentang cahaya lampu di Jakarta, kita langsung mengetahui bahwa Tanjung Priok adalah area yang ingin ditekankan. Pesan yang ingin disampaikan mengenai granularitas data juga bisa lebih mudah dimengerti pembaca. Jika ingin tahu lebih lanjut, bisa baca langsung di artikelnya:
 
