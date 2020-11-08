@@ -1,6 +1,6 @@
 ---
 title: Produktivitas Tenaga Kerja
-description: Pasti bukan kali terakhir mengomentari grafik buat pemerintah
+description: Pasti bukan kali terakhir mengomentari grafik buatan pemerintah
 toc: false
 comments: true
 layout: post
